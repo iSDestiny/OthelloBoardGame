@@ -1,5 +1,5 @@
 # Othello/Reversi Board Game
-Othello/Reversi is a strategy board game for two players usually played on an 8x8 uncheckered board. 
+Othello/Reversi is a strategy board game for two players usually played on an 8x8 uncheckered board. It was one of my first projects in my programming history, and the very first project I made that utilized a graphical user interface.
 
 ## How to install
 To play this game, simply download the repository onto your machine and double click user_interface.py inside the directory. If you wish to run from a shell/cmd then call python on it (python user_interface.py).
